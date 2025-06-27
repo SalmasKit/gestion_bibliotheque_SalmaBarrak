@@ -1,0 +1,42 @@
+# -----------------------------------
+# Fichiers compilés et caches Python
+# -----------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------
+# Environnements virtuels
+# -------------------------
+env/
+venv/
+ENV/
+.env/
+
+# -------------------------
+# Distribution, build, etc.
+# -------------------------
+build/
+dist/
+*.egg-info/
+
+# -------------------------
+# Fichiers IDE / éditeur
+# -------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -------------------------
+# Fichiers OS
+# -------------------------
+.DS_Store
+Thumbs.db
+
+
+
+# -------------------------
+# Logs
+# -------------------------
+*.log

@@ -1,0 +1,20 @@
+2010000010;1984;George Orwell;1949;Dystopie;disponible
+2010000032;Fahrenheit 451;Ray Bradbury;1953;Science-fiction;disponible
+2010000043;Les Fleurs du mal;Charles Baudelaire;1857;Poésie;disponible
+2010000054;Candide;Voltaire;1759;Conte philosophique;disponible
+2010000065;Bel-Ami;Guy de Maupassant;1885;Roman réaliste;disponible
+2010000076;Le Rouge et le Noir;Stendhal;1830;Roman psychologique;disponible
+2010000087;Crime et Châtiment;Fiodor Dostoïevski;1866;Roman psychologique;disponible
+9782070368;Le Petit Prince;Antoine de Saint-Exupéry;1943;Conte philosophique;disponible
+9780140449;L'Odyssée;Homère;-800;Épopée;disponible
+9780439139;Harry Potter et le prisonnier d'Azkaban;J.K. Rowling;1999;Fantastique;emprunté
+9782253002;L'Étranger;Albert Camus;1942;Roman existentiel;emprunté
+9782266200;Da Vinci Code;Dan Brown;2003;Thriller;emprunté
+9782070612;Les Misérables;Victor Hugo;1862;Roman historique;emprunté
+9782757816;L'Art de la guerre;Sun Tzu;-500;Stratégie militaire;emprunté
+9782266144;Le Nom de la rose;Umberto Eco;1980;Policier historique;emprunté
+9782266251;La Vérité sur l'affaire Harry Quebert;Joël Dicker;2012;Thriller;emprunté
+2100000010;La Vie est facile, ne t'inquiète pas;Agnès Martin-Lugand;2014;Roman contemporain;disponible
+2100000054;Ta deuxième vie commence quand tu comprends que tu n'en as qu'une;Raphaëlle Giordano;2015;Développement personnel;disponible
+2100000076;Le Manuscrit inachevé;Franck Thilliez;2018;Thriller;disponible
+1234567891;Harry Potter et le coup de feu;J.K.Rowling;2000;Fantasy;disponible

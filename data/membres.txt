@@ -1,0 +1,12 @@
+1;Youssef El Amrani;
+2;Fatima Zahra Bennani;9782266144
+3;Mohamed Boukili;
+4;Khadija El Idrissi;
+5;Rachid Ouarzazi;
+6;Sanae Bensalem;9780439139,2010000087,9782266251,9782266200,9780439139
+7;Adil Charkaoui;
+8;Nadia El Mansouri;
+9;Hassan Tazi;2010000054
+10;Leila Bouzid;9782070360
+11;Safouan Barrak;
+12;Salma Barrak;
